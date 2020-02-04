@@ -1,6 +1,10 @@
 function lvl1exercise1 () {
   // Declare a variable without instantiating it and return it!
 
+  var l;
+
+  return l;
+
 }
 
 function lvl1exercise2 () {
